@@ -1,0 +1,7 @@
+# C#/.NET specific ignores
+[Bb]in/
+[Oo]bj/
+
+# User-specific files (Visual Studio)
+*.user
+*.suo
