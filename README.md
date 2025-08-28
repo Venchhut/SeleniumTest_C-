@@ -12,7 +12,7 @@
 1. **Grab the code**  
    Clone the repo to your computer:
    ```bash
-   git clone https://github.com/Venchhut/SeleniumTest_C-.git
+   https://github.com/Venchhut/SeleniumTest_CSharp.git
 
 Open & Build
 
